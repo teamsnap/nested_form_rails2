@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "nested_form"
-  gem.version       = ActionMailer::VERSION::STRING
+  gem.version       = "0.0.1"
   gem.description   = %q{Teamsnap's fork of Nested Form for rails 2.3}
   gem.summary       = %q{Teamsnap's fork of Nested Form for rails 2.3}
   gem.homepage      = ""
